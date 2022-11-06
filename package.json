@@ -1,6 +1,7 @@
 {             
   
   "name": "my-app",
+  "homepage": "https://Bhargavi1624.github.io/reactwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
